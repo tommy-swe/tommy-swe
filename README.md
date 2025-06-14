@@ -72,8 +72,8 @@
 <h3 align="left">Buy me a coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/coff.ee/tommyswe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/tommyswe" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommy-swe&show_icons=true&locale=en&layout=compact" alt="tommy-swe" /></p>
+<h2 align="left">📊 Github Stats</h2>
+<table width="100%">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tommy-swe&show_icons=true&locale=en" alt="tommy-swe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tommy-swe&show_icons=true&locale=en" alt="tommy-swe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tommy-swe&" alt="tommy-swe" /></p>
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tommy-swe&show_icons=true&locale=en&layout=compact" alt="tommy-swe" /></p>
