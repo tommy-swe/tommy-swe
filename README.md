@@ -10,7 +10,7 @@
 - 🔭 Building **Ecobazar**, with **Next.js**, **NestJS**, **GraphQL**, & **WebSocket**.
 - 🌱 Currently learning **Docker**, **Kubernetes**, & **CI/CD**
 - 👯 Collaborating on **real-time apps**, **API optimization** & **developer tools**.
-- 💬 Ask me anything about **Full-Stack Development**, **NestJS**, **Next.js**, **REST & GraphQL APIs**, **React Hooks**, and **Software Architecture**.
+- 💬 Ask me anything about **Full-Stack, NestJS, Next.js, APIs & React**.
 - 📫 Connect via **[myfuzei@gmail.com](mailto:myfuzei@gmail.com)**.
 - ⚡ **Fun fact:**: **Humor-driven coding sessions FTW.**
 
