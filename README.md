@@ -1,6 +1,6 @@
-<div align="center">  <h1 align="center">Hi 👋, I'm Tommy</h1>
-  <h2>Full Stack Developer</h2> <p><strong><em>B.Sc. in Electronics & Computer Engineering (South Korea)</em></strong></p> <p><em>2+ years of experience building scalable web applications and real-time systems.</em></p> <h3>About Me:</h3> <p>An experienced full-stack developer proficient in both front-end and back-end development. Specializes in creating scalable web applications and real-time systems, ensuring high performance and reliability. Strong background in JavaScript/TypeScript frameworks, cloud-native deployments, and database management.
-<h3 align="center">Currently Developing:</h3>
+<div align="center">  <h2 align="center">Hi 👋, I'm Tommy</h2>
+  <h2>Full Stack Developer</h2> <p><strong><em>B.Sc. in Electronics & Computer Engineering (South Korea)</em></strong></p> <p><em>2+ years of experience building scalable web applications and real-time systems.</em></p> <h3>About Me</h3> <p>An experienced full-stack developer proficient in both front-end and back-end development. Specializes in creating scalable web applications and real-time systems, ensuring high performance and reliability. Strong background in JavaScript/TypeScript frameworks, cloud-native deployments, and database management.
+<h3 align="center">Currently Developing</h3>
 <p><strong>Full Stack Developer – Ecobazar (2025 – Present)</strong></p>
 <ul align="left">
   <li>Designing and implementing an eco-friendly e-commerce platform, Ecobazar, with emphasis on scalability and real-time features.</li>
@@ -10,11 +10,13 @@
   <li>Structuring and optimizing MongoDB/MySQL schemas to support efficient data storage and performance.</li>
   <li>Collaborating in an Agile environment, using Git for version control and team code reviews.</li>
 </ul>
-<h3>Contact:</h3> 
-  <p>Email: <strong>myfuzei@gmail.com</strong><br> 
-    LinkedIn: <strong>linkedin.com/in/tommyturgunov</strong></p> </div>
+<h3>Contact</h3> 
+ <ul>
+  Email: <a href="mailto:myfuzei@gmail.com">myfuzei@gmail.com</a><br>
+  LinkedIn: <a href="https://linkedin.com/in/tommyturgunov" target="_blank">tommyturgunov</a>
+</ul> </div>
 
-<h3 align="center">Let's Connect via:</h3>
+<h3 align="center">Let's Connect via</h3>
 
 <p align="center">
   <a href="https://codepen.io/@kebalja-tommy" target="blank">
@@ -33,13 +35,13 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
-<h3 align="center"> My Tech Stacks:</h3>
+<h3 align="center"> My Tech Stacks</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash,react,redux,nestjs,nextjs,express,graphql,sass,bootstrap,docker,kubernetes,git,nginx,postman,figma,grafana,mongodb,mysql" />
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tommy-swe&show_icons=true&theme=radical" alt="GitHub Stats" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-swe&layout=compact&theme=radical" alt="Top Languages" />
