@@ -44,5 +44,5 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tommy-swe&show_icons=true&theme=radical" alt="GitHub Stats" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-swe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tommy-swe&show_icons=true&theme=white" alt="GitHub Stats" /> &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-swe&layout=compact&theme=white" alt="Top Languages" />
 </p>
