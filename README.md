@@ -1,5 +1,5 @@
 <div align="center">  <h2 align="center">Hi, I’m Tommy – Full Stack Developer</h2>
-<p><strong><em>B.Sc. in Electronics & Computer Engineering (South Korea)</em></strong></p> <p><em>2+ years of experience building scalable web applications and real-time systems.</em></p> <h3>About Me</h3> <p>An experienced full-stack developer I love tackling complex backend challenges and optimizing performance for web & real-time apps. Specializes in creating scalable web applications and real-time systems, ensuring high performance and reliability. Strong background in JavaScript/TypeScript frameworks, cloud-native deployments, and database management.
+<p><strong><em>B.Sc. in Electronics & Computer Engineering (South Korea)</em></strong></p> <p><em>3+ years of experience building scalable web applications and real-time systems.</em></p> <h3>About Me</h3> <p>An experienced full-stack developer I love tackling complex backend challenges and optimizing performance for web & real-time apps. Specializes in creating scalable web applications and real-time systems, ensuring high performance and reliability. Strong background in JavaScript/TypeScript frameworks, cloud-native deployments, and database management.
 <h3 align="center">Currently Developing</h3>
 <p><strong>Full Stack Developer – Ecobazar (2025 – Present)</strong></p>
 <ul align="left">
