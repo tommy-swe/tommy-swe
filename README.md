@@ -1,9 +1,9 @@
 <div align="center">  <h2 align="center">Hi, I’m Tommy – Full Stack Developer</h2>
 <p><strong><em>B.Sc. in Electronics & Computer Engineering (South Korea)</em></strong></p> <p><em>3+ years of experience building scalable web applications and real-time systems.</em></p> <h3>About Me</h3> <p>An experienced full-stack developer I love tackling complex backend challenges and optimizing performance for web & real-time apps. Specializes in creating scalable web applications and real-time systems, ensuring high performance and reliability. Strong background in JavaScript/TypeScript frameworks, cloud-native deployments, and database management.
-<h3 align="center">Currently Developing</h3>
-<p><strong>Full Stack Developer – Ecobazar (2025 – Present)</strong></p>
+<h3 align="center">What I'm Currently Building (2026 – Present):</h3>
+<p><strong>As a Freelance Full Stack Developer, I am currently architecting a scalable, eco-friendly e-commerce platform. My day-to-day includes:</strong></p>
 <ul align="left">
-  <li>Designing and implementing an eco-friendly e-commerce platform, Ecobazar, with emphasis on scalability and real-time features.</li>
+  <li>Designing and implementing an eco-friendly e-commerce platforms, with emphasis on scalability and real-time features.</li>
   <li>Developing dynamic UIs using Next.js and architecting a robust backend with NestJS and GraphQL.</li>
   <li>Integrating WebSocket support to enable live updates and interactive user experiences.</li>
   <li>Containerizing the application via Docker and managing deployments with Kubernetes to ensure reliability.</li>
